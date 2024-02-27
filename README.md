@@ -85,7 +85,7 @@ A página foi construída seguindo as seguintes orientações durante a aula de 
 - **VIII.** Faça a validação do HTML e do CSS utilizando as ferramentas do W3C.
 
 <div align="left">
-  <h6><a href="#"> Voltar para o início ↺</a></h6>
+  <h6><a href="#página-de-currículo-simples-"> Voltar para o início ↺</a></h6>
 </div>
 
 <br>
@@ -127,7 +127,7 @@ A página foi construída seguindo as seguintes orientações durante a aula de 
 </table>
 
 <div align="left">
-  <h6><a href="#"> Voltar para o início ↺</a></h6>
+  <h6><a href="#página-de-currículo-simples-"> Voltar para o início ↺</a></h6>
 </div>
 
 <br>
