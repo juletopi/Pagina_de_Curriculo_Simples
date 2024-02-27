@@ -1,0 +1,47 @@
+/* Todas as telas */
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #444;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-top: solid 1px gray;
+}
+
+/* Celular */
+@media only screen and (max-width: 600px) {
+    body {
+        width: 90%;
+        margin: 0 auto;
+        padding: 2% 0;
+        background-color: #ddd;
+    }
+    section {
+        padding: 10px;
+    }
+}
+
+/* Tablet */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    body {
+        width: 80%;
+        margin: 0 auto;
+        padding: 2% 0;
+        background-color: #ddd;
+    }
+}
+
+/* Desktop */
+@media only screen and (min-width: 1025px) {
+    body {
+        width: 60%;
+        margin: 0 auto;
+        padding: 2% 0;
+        background-color: #ddd;
+    }
+}

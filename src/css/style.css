@@ -1,0 +1,38 @@
+body {
+    background-color: #ddd;
+    font-family: "Helvetica Neue", sans-serif;
+    color: #444;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.page-container {
+    width: 21cm;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 2cm;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+    flex: 1;
+}
+
+h1, h2 {
+    color: rgb(140, 76, 8);
+}
+
+section {
+    margin-top: 0;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
