@@ -32,7 +32,7 @@
 <div align="center">
  
   • Repositório do projeto de página de currículo simples feito no VSCode e com as linguagens \
-  de HTML e CSS para a disciplina de "Tópicos Especiais em Tecnologia".
+  de HTML e CSS para a disciplina de "[Tópicos Especiais em Tecnologia](https://github.com/juletopi/Topicos_Especiais_em_Tecnologia)".
  
 </div>
 
@@ -67,7 +67,7 @@
 
 > <a href=""><img src="https://github.com/juletopi/Pagina_de_Curriculo_Simples/assets/76459155/d7f2a4cf-aaba-45b1-9b0a-6c8dab01f4f9" alt="WebPageView" title="Visualização da Página Inteira" style="width: 40%;"></a>
 
-A página foi construída seguindo as seguintes orientações durante a aula de Tópicos Especiais em Tecnologia ministrada no dia 26/02/2024: 
+A página foi construída seguindo as seguintes orientações durante a aula de [Tópicos Especiais em Tecnologia](https://github.com/juletopi/Topicos_Especiais_em_Tecnologia) ministrada no dia 26/02/2024: 
 - **I.** Coloque todo o conteúdo visível da página dentro de um elemento `<main>`; 
 - **II.** Remova eventuais elementos `<hr>` e `<br>` separando as partes do currículo e coloque cada parte 
 (começando pelo perfil) dentro de um elemento `<section>`; 
