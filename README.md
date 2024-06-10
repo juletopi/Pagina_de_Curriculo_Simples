@@ -51,9 +51,9 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/juletopi/Pagina_de_Curriculo_Simples">View Demo</a> &#xa0; • &#xa0;
-<a href="https://github.com/juletopi/Pagina_de_Curriculo_Simples/issues">Report Bug</a> &#xa0; • &#xa0;
-<a href="https://github.com/juletopi/Pagina_de_Curriculo_Simples/discussions">Request Feature</a>
+<a href="https://github.com/juletopi/Pagina_de_Curriculo_Simples/blob/main/CONTRIBUTING.md">Como contribuir</a> &#xa0; • &#xa0;
+<a href="https://github.com/juletopi/Pagina_de_Curriculo_Simples/issues">Issues</a> &#xa0; • &#xa0;
+<a href="https://github.com/juletopi/Pagina_de_Curriculo_Simples/discussions">Discussions</a>
 </div>
 
 <!-- ABOUT THE PAGE -->
