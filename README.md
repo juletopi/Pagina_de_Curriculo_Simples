@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  <a href="https://juletopi.github.io/Pagina_de_Curriculo_Simples/">**Visualize a página web clicando aqui »**</a> \
+  <a href="https://juletopi.github.io/Pagina_de_Curriculo_Simples/">**« Visualize a página web clicando aqui »**</a> \
     <sub>**"Use `ctrl + click` para abri-la numa nova janela!"**</sub>
 </div>
 
