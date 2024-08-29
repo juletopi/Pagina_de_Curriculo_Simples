@@ -58,11 +58,11 @@
 
 <!-- ABOUT THE PAGE -->
 
-## 📋 Sobre a Página
-
-### 🖼️ Imagem da página
+## 🖼️ Imagem da página
 
 > <a href=""><img src="https://github.com/juletopi/Pagina_de_Curriculo_Simples/assets/76459155/d7f2a4cf-aaba-45b1-9b0a-6c8dab01f4f9" alt="WebPageView" title="Visualização da Página Inteira" style="width: 40%;"></a>
+
+## 📝 Descrição do Projeto
 
 A página foi construída seguindo as seguintes orientações durante a aula de [Tópicos Especiais em Tecnologia](https://github.com/juletopi/Topicos_Especiais_em_Tecnologia) ministrada no dia 26/02/2024: 
 - **I.** Coloque todo o conteúdo visível da página dentro de um elemento `<main>`; 
@@ -80,6 +80,54 @@ A página foi construída seguindo as seguintes orientações durante a aula de 
 `padding-bottom: 5px;`\
 `border-top: solid 1px gray;`
 - **VIII.** Faça a validação do HTML e do CSS utilizando as ferramentas do W3C.
+
+<div align="left">
+  <h6><a href="#página-de-currículo-simples-"> Voltar para o início ↺</a></h6>
+</div>
+
+## ⚙️ Funcionalidades
+
+A página inclui as seguintes principais funcionalidades:
+
+- Um currículo simples com os seguintes tópicos...
+  - Foto de perfil e nome completo
+  - Texto introdutório de perfil
+  - Lista de principais competências
+  - Formação acadêmica com link para o site do instituto
+  - Lista de experiências profissionais
+  - Conjunto de contatos
+  - Rodapé simples
+
+<div align="left">
+  <h6><a href="#página-de-currículo-simples-"> Voltar para o início ↺</a></h6>
+</div>
+
+## 👩‍💻 Tecnologias Utilizadas
+
+<a href="https://www.w3schools.com/html/">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-badge" width="97px">
+</a>
+  <a href="https://www.w3schools.com/css/">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"alt="CSS-badge" width="84px">
+</a>
+
+<div align="left">
+  <h6><a href="#página-de-currículo-simples-"> Voltar para o início ↺</a></h6>
+</div>
+
+<!-- CONTRIBUTIONS -->
+
+## 🤝 Contribuições
+
+<p>Todas as contribuições ao projeto são bem vindas!<br>Se você deseja contribuir para este projeto, há várias maneiras de fazer isso. Você pode:</p>
+<ul>
+  <li>Reportar bugs ou problemas;</li>
+  <li>Propor novos recursos ou melhorias;</li>
+  <li>Corrigir problemas através de pull requests;</li>
+  <li>Ajudar a melhorar a documentação;</li>
+  <li>Compartilhar o projeto com outras pessoas.</li>
+</ul>
+<p>Para saber mais sobre como contribuir, consulte o guia de contribuição <a href="https://github.com/juletopi/Pagina_de_Curriculo_Simples/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
 
 <div align="left">
   <h6><a href="#página-de-currículo-simples-"> Voltar para o início ↺</a></h6>
